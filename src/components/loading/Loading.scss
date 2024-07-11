@@ -21,7 +21,7 @@
  }
 
  .radus-loading {
-   width: 105px;   height: 105px;
+   width: 105px;   //
    background-color: #bebee3;
    position: absolute;
    animation: playLine 0.9s infinite alternate;
@@ -29,7 +29,7 @@
  }
  .radus-loading1 {
    width: 105px;
-   height: 105px;
+   
    background-color: #5b5ce2;
    position: absolute;
    animation: playLine1 0.9s infinite alternate;
